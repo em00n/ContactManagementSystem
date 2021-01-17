@@ -62,6 +62,13 @@
 
   }
 	]
+  },
+	{
+    "id": 4,
+    "categoriName": "Life Style",
+    "categoriPicture": "https://via.placeholder.com/600/92c952",
+	"subCategori":[
+	]
   }
 ],
   "itemList": [
@@ -86,7 +93,7 @@
 	"subCategoriId": 2,
     "productName": "Book2",
     "productPrice": "100",
-    "productDiscount": "15",
+    "productDiscount": "0",
     "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
     "productPicture": "https://via.placeholder.com/600/92c952",
     "productPictures": [
