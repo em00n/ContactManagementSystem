@@ -194,7 +194,22 @@
      "https://via.placeholder.com/600/92c952"
 ],
 "homepageCategoriList": [
-  1,2,3
+	{
+    "id": 1,
+    "categoriId":1,
+    "categoriName": "Book"
+  },
+	{
+    "id": 2,
+    "categoriId":2,
+    "categoriName": "Fashion"
+  },
+	{
+    "id": 3,
+    "categoriId":3,
+    "categoriName": "Electronics"
+  }
+ 
   ]
   }
 ]
