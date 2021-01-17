@@ -93,7 +93,7 @@
 	"subCategoriId": 2,
     "productName": "Book2",
     "productPrice": "100",
-    "productDiscount": "0",
+    "productDiscount": "10",
     "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
     "productPicture": "https://via.placeholder.com/600/92c952",
     "productPictures": [
@@ -183,7 +183,7 @@
 	"subCategoriId": 2,
     "productName": "Mobile",
     "productPrice": "13000",
-    "productDiscount": "13",
+    "productDiscount": "0",
     "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
     "productPicture": "https://via.placeholder.com/600/92c952",
     "productPictures": [
@@ -215,6 +215,11 @@
     "id": 3,
     "categoriId":3,
     "categoriName": "Electronics"
+  },
+	{
+    "id": 4,
+    "categoriId":4,
+    "categoriName": "Life Style"
   }
  
   ]
