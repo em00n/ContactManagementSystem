@@ -135,7 +135,7 @@
     "productName": " bb",
     "productPrice": "180",
     "productDiscount": "20",
-    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productDetails": "Product Details",
     "productPicture": "https://www.google.com",
     "isStock": true,
     "productPictures": [
@@ -150,7 +150,7 @@
     "productName": "Arshinagar by Sadat Hossain",
     "productPrice": "480",
     "productDiscount": "30",
-    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productDetails": "Product Details",
     "productPicture": "https://www.google.com",
     "isStock": true,
     "productPictures": [
@@ -165,7 +165,7 @@
     "productName": "Srestha Golpo-Manik Bandopadhyay",
     "productPrice": "280",
     "productDiscount": "25",
-    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+   "productDetails": "Product Details",
     "productPicture": "https://www.google.com",
     "isStock": true,
     "productPictures": [
@@ -180,7 +180,277 @@
     "productName": "Full Sleeve Shirt",
     "productPrice": "580",
     "productDiscount": "15",
-    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+   "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 6,
+	"categoriId": 2,
+	"subCategoriId": 1,
+    "productName": "T-Shirt For Men",
+    "productPrice": "500",
+    "productDiscount": "0",
+   "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+{
+    "id": 7,
+	"categoriId": 2,
+	"subCategoriId": 2,
+    "productName": "Georgette Women's Fashion Tops",
+    "productPrice": "1000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+{
+    "id": 8,
+	"categoriId": 2,
+	"subCategoriId": 2,
+    "productName": "Black Wedding Wear Embroidered Lehenga Choli",
+    "productPrice": "2500",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 9,
+	"categoriId": 3,
+	"subCategoriId": 1,
+    "productName": "Rangs Smart TV - 32 - Black",
+    "productPrice": "25000",
+    "productDiscount": "15",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 10,
+	"categoriId": 3,
+	"subCategoriId": 1,
+    "productName": "HITACHI 589LTR. (RS700GPUK2/C2 GBK) NON-FROST SIDE-BY-SIDE INVERTER REFRIGERATOR",
+    "productPrice": "55000",
+    "productDiscount": "20",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 11,
+	"categoriId": 3,
+	"subCategoriId": 1,
+    "productName": "Rangs 01 Ton Split Type Air-Conditioner",
+    "productPrice": "60000",
+    "productDiscount": "25",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 12,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Gold jewellery necklace sets",
+    "productPrice": "50000",
+    "productDiscount": "15",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 13,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Diamond jewellery necklace sets",
+    "productPrice": "80000",
+    "productDiscount": "20",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 14,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Gold jewellery necklace sets",
+    "productPrice": "40000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 15,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Gold jewellery ring sets",
+    "productPrice": "30000",
+    "productDiscount": "25",
+  "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 16,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "Cricket Bat",
+    "productPrice": "500",
+    "productDiscount": "5",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	   {
+    "id": 17,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "Cricket Ball",
+    "productPrice": "200",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	   {
+    "id": 18,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "football",
+    "productPrice": "1000",
+    "productDiscount": "15",
+   "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	  {
+    "id": 19,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "Badminton Racquets",
+    "productPrice": "1000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	   {
+    "id": 20,
+	"categoriId": 6,
+	"subCategoriId": 1,
+    "productName": "Yamaha MT15",
+    "productPrice": "400000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	   {
+    "id": 21,
+	"categoriId": 6,
+	"subCategoriId": 1,
+    "productName": "KTM 200 Duke",
+    "productPrice": "300000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	   {
+    "id": 22,
+	"categoriId": 6,
+	"subCategoriId": 2,
+    "productName": "Mercedes-Benz car",
+    "productPrice": "5000000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://www.google.com",
+    "isStock": true,
+    "productPictures": [
+    "https://www.google.com",
+    "https://www.google.com"
+    ]
+  },
+	   {
+    "id": 23,
+	"categoriId": 6,
+	"subCategoriId": 2,
+    "productName": "Tesla car",
+    "productPrice": "5000000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
     "productPicture": "https://www.google.com",
     "isStock": true,
     "productPictures": [
