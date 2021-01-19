@@ -3,20 +3,27 @@
   {
     "id": 1,
     "categoriName": "Book",
-    "categoriPicture": "https://via.placeholder.com/600/92c952",
+    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599",
   	"subCategori":[
 	{
     "id": 1,
 	"categoriId":1,
-    "subCategoriName": "Book",
-    "subCategoriPicture": "https://via.placeholder.com/600/92c952"
+    "subCategoriName": "Novel",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599"
   
   },
    {
     "id": 2,
    "categoriId":1,
-    "subCategoriName": "Book2",
-    "subCategoriPicture": "https://via.placeholder.com/600/92c952"
+    "subCategoriName": "Poem",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599"
+
+  },
+	{
+    "id": 3,
+   "categoriId":1,
+    "subCategoriName": "Story",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599"
 
   }
 	]
@@ -24,20 +31,20 @@
    {
     "id": 2,
     "categoriName": "Fashion",
-    "categoriPicture": "https://via.placeholder.com/600/92c952",
+    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052301153%20(2).png?alt=media&token=170ae501-ae5c-4ffb-8d71-343fdcda9673",
 	"subCategori":[
 	{
     "id": 1,
 	"categoriId":2,
-    "subCategoriName": "Fashion",
-    "subCategoriPicture": "https://via.placeholder.com/600/92c952"
+    "subCategoriName": "Men",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052301153%20(2).png?alt=media&token=170ae501-ae5c-4ffb-8d71-343fdcda9673"
   
   },
    {
     "id": 2,
    "categoriId":2,
-    "subCategoriName": "Fashion2",
-    "subCategoriPicture": "https://via.placeholder.com/600/92c952"
+    "subCategoriName": "Women",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052301153%20(2).png?alt=media&token=170ae501-ae5c-4ffb-8d71-343fdcda9673"
 
   }
 	]
@@ -45,29 +52,64 @@
    {
     "id": 3,
     "categoriName": "Electronics",
-    "categoriPicture": "https://via.placeholder.com/600/92c952",
+    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052255896.png?alt=media&token=1cf67a5c-f01b-4867-9916-1d95b7d7201f",
 	"subCategori":[
 	{
     "id": 1,
 	"categoriId":3,
     "subCategoriName": "Electronics",
-    "subCategoriPicture": "https://via.placeholder.com/600/92c952"
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052255896.png?alt=media&token=1cf67a5c-f01b-4867-9916-1d95b7d7201f"
   
-  },
-   {
-    "id": 2,
-   "categoriId":3,
-    "subCategoriName": "Electronics",
-    "subCategoriPicture": "https://via.placeholder.com/600/92c952"
-
   }
 	]
   },
 	{
     "id": 4,
-    "categoriName": "Life Style",
-    "categoriPicture": "https://via.placeholder.com/600/92c952",
+    "categoriName": "Jewellery",
+    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052475141.png?alt=media&token=a03ae477-d38d-4d2f-aded-f9ce0670ff51",
 	"subCategori":[
+		{
+    "id": 1,
+	"categoriId":4,
+    "subCategoriName": "Jewellery",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052475141.png?alt=media&token=a03ae477-d38d-4d2f-aded-f9ce0670ff51"
+  
+  }
+	]
+  },
+	{
+    "id": 5,
+    "categoriName": "Sports",
+    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052390676.png?alt=media&token=5508741c-b7f7-43f3-98f8-a70a3813d68c",
+	"subCategori":[
+		{
+    "id": 1,
+	"categoriId":5,
+    "subCategoriName": "Sports",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052390676.png?alt=media&token=5508741c-b7f7-43f3-98f8-a70a3813d68c"
+  
+  }
+	]
+  },
+	{
+    "id": 6,
+    "categoriName": "Vehicles",
+    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64",
+	"subCategori":[
+	{
+    "id": 1,
+	"categoriId":6,
+    "subCategoriName": "Bike",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64"
+  
+  },
+	{
+    "id": 2,
+	"categoriId":6,
+    "subCategoriName": "Car",
+    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64"
+  
+  }
 	]
   }
 ],
@@ -75,130 +117,366 @@
 	{
     "id": 1,
 	"categoriId": 1,
-	"subCategoriId": 1,
-    "productName": "Book1",
+	"subCategoriId": 2,
+    "productName": "Banalata Sen by Jibanananda Das",
     "productPrice": "200",
     "productDiscount": "25",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0"
 ]
   },
 {
     "id": 2,
-    "categoriId": 1,
+	"categoriId": 1,
 	"subCategoriId": 2,
-    "productName": "Book2",
-    "productPrice": "100",
-    "productDiscount": "10",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+    "productName": "রবীন্দ্রনাথ ঠাকুরের শ্রেষ্ঠ কবিতা",
+    "productPrice": "180",
+    "productDiscount": "20",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57"
 ]
   },
 {
     "id": 3,
-    "categoriId": 1,
+	"categoriId": 1,
 	"subCategoriId": 1,
-    "productName": "Book3",
-    "productPrice": "300",
-    "productDiscount": "35",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+    "productName": "Arshinagar by Sadat Hossain",
+    "productPrice": "480",
+    "productDiscount": "30",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59"
 ]
   },
   	{
     "id": 4,
-    "categoriId": 2,
-	"subCategoriId": 1,
-    "productName": "shirt",
-    "productPrice": "500",
+	"categoriId": 1,
+	"subCategoriId": 3,
+    "productName": "Srestha Golpo-Manik Bandopadhyay",
+    "productPrice": "280",
     "productDiscount": "25",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0"
 ]
   },
 {
     "id": 5,
-    "categoriId": 2,
-	"subCategoriId": 2,
-    "productName": "saree",
-    "productPrice": "1000",
-    "productDiscount": "20",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+	"categoriId": 2,
+	"subCategoriId": 1,
+    "productName": "Full Sleeve Shirt",
+    "productPrice": "580",
+    "productDiscount": "15",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F0197666_siwak-full-sleeve-shirt-for-men-ssp0922_415.jpeg?alt=media&token=d65444f4-c75b-4ffd-b027-9cbe3696fe75",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F0197666_siwak-full-sleeve-shirt-for-men-ssp0922_415.jpeg?alt=media&token=d65444f4-c75b-4ffd-b027-9cbe3696fe75",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F0197666_siwak-full-sleeve-shirt-for-men-ssp0922_415.jpeg?alt=media&token=d65444f4-c75b-4ffd-b027-9cbe3696fe75"
 ]
   },
   	{
     "id": 6,
-    "categoriId": 3,
+	"categoriId": 2,
 	"subCategoriId": 1,
-    "productName": "Tv",
-    "productPrice": "20000",
-    "productDiscount": "15",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+    "productName": "T-Shirt For Men",
+    "productPrice": "500",
+    "productDiscount": "0",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F32cf9b3c02c7956bde83403b26222d36.jpg?alt=media&token=7e9f9bec-858b-4fa0-95bf-d4888f2b4ba1",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F32cf9b3c02c7956bde83403b26222d36.jpg?alt=media&token=7e9f9bec-858b-4fa0-95bf-d4888f2b4ba1"
 ]
   },
 {
     "id": 7,
-    "categoriId": 3,
-	"subCategoriId": 1,
-    "productName": "Ac",
-    "productPrice": "50000",
-    "productDiscount": "30",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+	"categoriId": 2,
+	"subCategoriId": 2,
+    "productName": "Georgette Women's Fashion Tops",
+    "productPrice": "1000",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fc83bc75a5f4c-141.png?alt=media&token=595b266d-cf25-4c24-80b2-48cc9c252607",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fc83bc75a5f4c-141.png?alt=media&token=595b266d-cf25-4c24-80b2-48cc9c252607",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fc83bc75a5f4c-141.png?alt=media&token=595b266d-cf25-4c24-80b2-48cc9c252607"
 ]
   },
 {
     "id": 8,
-    "categoriId": 3,
+	"categoriId": 2,
 	"subCategoriId": 2,
-    "productName": "Mobile",
-    "productPrice": "13000",
-    "productDiscount": "0",
-    "productDetails": "Boooooooooooooooooooooooooooooooooooooook",
-    "productPicture": "https://via.placeholder.com/600/92c952",
+    "productName": "Black Wedding Wear Embroidered Lehenga Choli",
+    "productPrice": "2500",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F1600429992jpg.jpg?alt=media&token=d0693330-878d-414d-aa19-b5ce6af02b58",
+    "isStock": true,
     "productPictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F1600429992jpg.jpg?alt=media&token=d0693330-878d-414d-aa19-b5ce6af02b58",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F1600429992jpg.jpg?alt=media&token=d0693330-878d-414d-aa19-b5ce6af02b58"
+]
+  },
+	  {
+    "id": 9,
+	"categoriId": 3,
+	"subCategoriId": 1,
+    "productName": "Rangs Smart TV - 32 - Black",
+    "productPrice": "25000",
+    "productDiscount": "15",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F7c839e4f4414-104.jpg?alt=media&token=51d80a5b-694b-4f73-b42d-be643b4e6d28",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F7c839e4f4414-104.jpg?alt=media&token=51d80a5b-694b-4f73-b42d-be643b4e6d28",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F7c839e4f4414-104.jpg?alt=media&token=51d80a5b-694b-4f73-b42d-be643b4e6d28"
+]
+  },
+	  {
+    "id": 10,
+	"categoriId": 3,
+	"subCategoriId": 1,
+    "productName": "HITACHI 589LTR. (RS700GPUK2/C2 GBK) NON-FROST SIDE-BY-SIDE INVERTER REFRIGERATOR",
+    "productPrice": "55000",
+    "productDiscount": "20",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fhitachi_589ltr._rs700gpuk2.png?alt=media&token=22fd33b9-4231-4e74-b853-997902da64b5",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fhitachi_589ltr._rs700gpuk2.png?alt=media&token=22fd33b9-4231-4e74-b853-997902da64b5"
+   
+]
+  },
+	  {
+    "id": 11,
+	"categoriId": 3,
+	"subCategoriId": 1,
+    "productName": "Rangs 01 Ton Split Type Air-Conditioner",
+    "productPrice": "60000",
+    "productDiscount": "25",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F20201004101057.jpg?alt=media&token=25409e9c-5598-42d5-a35b-06e9a9a67651",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F20201004101057.jpg?alt=media&token=25409e9c-5598-42d5-a35b-06e9a9a67651"
+]
+  },
+	  {
+    "id": 12,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Gold jewellery necklace sets",
+    "productPrice": "50000",
+    "productDiscount": "15",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages%20(1).jpg?alt=media&token=0d2c5c7e-c8e5-4a0b-bb25-1b3f80134d29",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages%20(1).jpg?alt=media&token=0d2c5c7e-c8e5-4a0b-bb25-1b3f80134d29",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages%20(1).jpg?alt=media&token=0d2c5c7e-c8e5-4a0b-bb25-1b3f80134d29"
+]
+  },
+	  {
+    "id": 13,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Diamond jewellery necklace sets",
+    "productPrice": "80000",
+    "productDiscount": "20",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages.jpg?alt=media&token=bcd8e1e4-1c86-4c76-a103-328ef988b463",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages.jpg?alt=media&token=bcd8e1e4-1c86-4c76-a103-328ef988b463",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages.jpg?alt=media&token=bcd8e1e4-1c86-4c76-a103-328ef988b463"
+]
+  },
+	  {
+    "id": 14,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Gold jewellery necklace sets",
+    "productPrice": "40000",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdownload.jpg?alt=media&token=1ffa7158-2b61-4a39-b700-24b5bed4f1a3",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdownload.jpg?alt=media&token=1ffa7158-2b61-4a39-b700-24b5bed4f1a3",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdownload.jpg?alt=media&token=1ffa7158-2b61-4a39-b700-24b5bed4f1a3"
+]
+  },
+	  {
+    "id": 15,
+	"categoriId": 4,
+	"subCategoriId": 1,
+    "productName": "Gold jewellery ring sets",
+    "productPrice": "30000",
+    "productDiscount": "25",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages%20(2).jpg?alt=media&token=e1d05c19-348e-4d36-848a-6a0548c41146",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages%20(2).jpg?alt=media&token=e1d05c19-348e-4d36-848a-6a0548c41146",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fimages%20(2).jpg?alt=media&token=e1d05c19-348e-4d36-848a-6a0548c41146"
+]
+  },
+	  {
+    "id": 16,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "Cricket Bat",
+    "productPrice": "500",
+    "productDiscount": "5",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F3ca773e7bcfe018cccc05b85f8f4b52a.jpg?alt=media&token=d4d829cc-e591-48c6-8da7-2d720bab8df9",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F3ca773e7bcfe018cccc05b85f8f4b52a.jpg?alt=media&token=d4d829cc-e591-48c6-8da7-2d720bab8df9",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F3ca773e7bcfe018cccc05b85f8f4b52a.jpg?alt=media&token=d4d829cc-e591-48c6-8da7-2d720bab8df9"
+]
+  },
+	   {
+    "id": 17,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "Cricket Ball",
+    "productPrice": "200",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FCricket-Ball.jpg?alt=media&token=7efd04a2-36c3-4afd-8159-f4ea3a3b9d38",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FCricket-Ball.jpg?alt=media&token=7efd04a2-36c3-4afd-8159-f4ea3a3b9d38",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FCricket-Ball.jpg?alt=media&token=7efd04a2-36c3-4afd-8159-f4ea3a3b9d38"
+]
+  },
+	   {
+    "id": 18,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "football",
+    "productPrice": "1000",
+    "productDiscount": "15",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fepic-classic-premium-practice-soccer-balls.jpg?alt=media&token=f06b4e28-bd43-41c5-b8d5-01e7a3177006",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fepic-classic-premium-practice-soccer-balls.jpg?alt=media&token=f06b4e28-bd43-41c5-b8d5-01e7a3177006",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fepic-classic-premium-practice-soccer-balls.jpg?alt=media&token=f06b4e28-bd43-41c5-b8d5-01e7a3177006"
+]
+  },
+	  {
+    "id": 19,
+	"categoriId": 5,
+	"subCategoriId": 1,
+    "productName": "Badminton Racquets",
+    "productPrice": "1000",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F031489393936.jpg?alt=media&token=264720b1-0f7d-416a-9ab1-ddacc5985e31",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F031489393936.jpg?alt=media&token=264720b1-0f7d-416a-9ab1-ddacc5985e31",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F031489393936.jpg?alt=media&token=264720b1-0f7d-416a-9ab1-ddacc5985e31"
+]
+  },
+	   {
+    "id": 20,
+	"categoriId": 6,
+	"subCategoriId": 1,
+    "productName": "Yamaha MT15",
+    "productPrice": "400000",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297"
+]
+  },
+	   {
+    "id": 21,
+	"categoriId": 6,
+	"subCategoriId": 1,
+    "productName": "KTM 200 Duke",
+    "productPrice": "300000",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Ffe142e201c0fde728a4b9759ab1966a1.jpg?alt=media&token=a6e9ca51-4ec0-4c56-a8a3-cdeadc79b8c1",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Ffe142e201c0fde728a4b9759ab1966a1.jpg?alt=media&token=a6e9ca51-4ec0-4c56-a8a3-cdeadc79b8c1",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Ffe142e201c0fde728a4b9759ab1966a1.jpg?alt=media&token=a6e9ca51-4ec0-4c56-a8a3-cdeadc79b8c1"
+]
+  },
+	   {
+    "id": 22,
+	"categoriId": 6,
+	"subCategoriId": 2,
+    "productName": "Mercedes-Benz car",
+    "productPrice": "5000000",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F2020-Mercedes-Benz-C-Class-Sedan-Grey-1001x565.jpg?alt=media&token=e4d88b9c-1716-4bad-b194-8a7f87ac0ae8",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F2020-Mercedes-Benz-C-Class-Sedan-Grey-1001x565.jpg?alt=media&token=e4d88b9c-1716-4bad-b194-8a7f87ac0ae8",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F2020-Mercedes-Benz-C-Class-Sedan-Grey-1001x565.jpg?alt=media&token=e4d88b9c-1716-4bad-b194-8a7f87ac0ae8"
+]
+  },
+	   {
+    "id": 23,
+	"categoriId": 6,
+	"subCategoriId": 2,
+    "productName": "Tesla car",
+    "productPrice": "5000000",
+    "productDiscount": "10",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0"
 ]
   }
 ],
   "homepageItem": [
 	{
-    "homepageSlidePictures": [
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952",
-     "https://via.placeholder.com/600/92c952"
+    "homepageSlideList": [
+     {
+    "id": 1,
+    "categoriId":"3",
+    "subCategoriId": "0",
+    "slidePicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611063299862.png?alt=media&token=540b6f1d-1304-4d29-8efb-1c5f74670882",
+    "discount":"0"
+	     
+  },
+	    {
+    "id": 2,
+    "categoriId":"4",
+    "subCategoriId": "0",
+    "slidePicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611063542769.png?alt=media&token=137b8649-c8dc-4555-a4b2-d0919bcb238f",
+    "discount":"0"
+	     
+  }
+	
 ],
 "homepageCategoriList": [
 	{
@@ -208,8 +486,8 @@
   },
 	{
     "id": 2,
-    "categoriId":2,
-    "categoriName": "Fashion"
+    "categoriId":6,
+    "categoriName": "Vehicles"
   },
 	{
     "id": 3,
@@ -219,7 +497,12 @@
 	{
     "id": 4,
     "categoriId":4,
-    "categoriName": "Life Style"
+    "categoriName": "Jewellery"
+  },
+	{
+    "id": 5,
+    "categoriId":2,
+    "categoriName": "Fashion"
   }
  
   ]
