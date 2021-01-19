@@ -241,20 +241,6 @@
     "productPictures": [
      "https://www.google.com"
 ]
-  },
-	  {
-    "id": 10,
-	"categoriId": 3,
-	"subCategoriId": 1,
-    "productName": "Rangs 01 Ton Split Type Air-Conditioner",
-    "productPrice": "60000",
-    "productDiscount": "25",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F20201004101057.jpg?alt=media&token=25409e9c-5598-42d5-a35b-06e9a9a67651",
-    "isStock": true,
-   "productPictures": [
-     "https://www.google.com"
-]
   }
 	 
 ],
@@ -294,11 +280,6 @@
     "id": 3,
     "categoriId":3,
     "categoriName": "Electronics"
-  },
-	{
-    "id": 4,
-    "categoriId":4,
-    "categoriName": "Jewellery"
   }
  
 	
