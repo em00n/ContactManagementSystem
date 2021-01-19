@@ -128,6 +128,64 @@
      "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0",
      "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0"
 ]
+  },{
+    "id": 2,
+	"categoriId": 1,
+	"subCategoriId": 2,
+    "productName": " bb",
+    "productPrice": "180",
+    "productDiscount": "20",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57"
+]
+  },
+{
+    "id": 3,
+	"categoriId": 1,
+	"subCategoriId": 1,
+    "productName": "Arshinagar by Sadat Hossain",
+    "productPrice": "480",
+    "productDiscount": "30",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59"
+]
+  },
+  	{
+    "id": 4,
+	"categoriId": 1,
+	"subCategoriId": 3,
+    "productName": "Srestha Golpo-Manik Bandopadhyay",
+    "productPrice": "280",
+    "productDiscount": "25",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0"
+]
+  },
+{
+    "id": 5,
+	"categoriId": 2,
+	"subCategoriId": 1,
+    "productName": "Full Sleeve Shirt",
+    "productPrice": "580",
+    "productDiscount": "15",
+    "productDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh ante facilisis bibendum.",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F0197666_siwak-full-sleeve-shirt-for-men-ssp0922_415.jpeg?alt=media&token=d65444f4-c75b-4ffd-b027-9cbe3696fe75",
+    "isStock": true,
+    "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F0197666_siwak-full-sleeve-shirt-for-men-ssp0922_415.jpeg?alt=media&token=d65444f4-c75b-4ffd-b027-9cbe3696fe75",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F0197666_siwak-full-sleeve-shirt-for-men-ssp0922_415.jpeg?alt=media&token=d65444f4-c75b-4ffd-b027-9cbe3696fe75"
+]
   }
 ],
   "homepageItem": [
@@ -183,3 +241,4 @@
   }
 ]
 }
+
