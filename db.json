@@ -146,34 +146,89 @@
   },
 	  {
     "id": 3,
-	"categoriId": 2,
-	"subCategoriId": 1,
-    "productName": "Full Sleeve Shirt",
-    "productPrice": "580",
-    "productDiscount": "15",
+	"categoriId": 1,
+	"subCategoriId": 2,
+    "productName": " bb",
+    "productPrice": "180",
+    "productDiscount": "20",
     "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F0197666_siwak-full-sleeve-shirt-for-men-ssp0922_415.jpeg?alt=media&token=d65444f4-c75b-4ffd-b027-9cbe3696fe75",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57",
     "isStock": true,
     "productPictures": [
-     "https://www.google.com",
      "https://www.google.com"
 ]
   },
 	  {
     "id": 4,
-	"categoriId": 2,
-	"subCategoriId": 2,
-    "productName": "Black Wedding Wear Embroidered Lehenga Choli",
-    "productPrice": "2500",
-    "productDiscount": "10",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F1600429992jpg.jpg?alt=media&token=d0693330-878d-414d-aa19-b5ce6af02b58",
+	"categoriId": 1,
+	"subCategoriId": 3,
+    "productName": "Srestha Golpo-Manik Bandopadhyay",
+    "productPrice": "280",
+    "productDiscount": "25",
+    "productDetails":  "Product Details",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0",
     "isStock": true,
     "productPictures": [
-     "https://www.google.com",
+     "https://www.google.com"
+]
+  },
+	    {
+    "id": 5,
+	"categoriId": 6,
+	"subCategoriId": 1,
+    "productName": "Yamaha MT15",
+    "productPrice": "400000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297",
+    "isStock": true,
+     "productPictures": [
+     "https://www.google.com"
+]
+  },
+	   {
+    "id": 6,
+	"categoriId": 6,
+	"subCategoriId": 1,
+    "productName": "KTM 200 Duke",
+    "productPrice": "300000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Ffe142e201c0fde728a4b9759ab1966a1.jpg?alt=media&token=a6e9ca51-4ec0-4c56-a8a3-cdeadc79b8c1",
+    "isStock": true,
+    "productPictures": [
+     "https://www.google.com"
+]
+  },
+	   {
+    "id": 7,
+	"categoriId": 6,
+	"subCategoriId": 2,
+    "productName": "Mercedes-Benz car",
+    "productPrice": "5000000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F2020-Mercedes-Benz-C-Class-Sedan-Grey-1001x565.jpg?alt=media&token=e4d88b9c-1716-4bad-b194-8a7f87ac0ae8",
+    "isStock": true,
+    "productPictures": [
+     "https://www.google.com"
+]
+  },
+	   {
+    "id": 8,
+	"categoriId": 6,
+	"subCategoriId": 2,
+    "productName": "Tesla car",
+    "productPrice": "5000000",
+    "productDiscount": "10",
+    "productDetails": "Product Details",
+    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0",
+    "isStock": true,
+   "productPictures": [
      "https://www.google.com"
 ]
   }
+	 
 ],
   "homepageItem": [
 	{
