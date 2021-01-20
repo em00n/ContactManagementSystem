@@ -28,35 +28,15 @@
   }
 	]
   },
+   
    {
     "id": 2,
-    "categoriName": "Fashion",
-    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052301153%20(2).png?alt=media&token=170ae501-ae5c-4ffb-8d71-343fdcda9673",
-	"subCategori":[
-	{
-    "id": 1,
-	"categoriId":2,
-    "subCategoriName": "Men",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052301153%20(2).png?alt=media&token=170ae501-ae5c-4ffb-8d71-343fdcda9673"
-  
-  },
-   {
-    "id": 2,
-   "categoriId":2,
-    "subCategoriName": "Women",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052301153%20(2).png?alt=media&token=170ae501-ae5c-4ffb-8d71-343fdcda9673"
-
-  }
-	]
-  },
-   {
-    "id": 3,
     "categoriName": "Electronics",
     "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052255896.png?alt=media&token=1cf67a5c-f01b-4867-9916-1d95b7d7201f",
 	"subCategori":[
 	{
     "id": 1,
-	"categoriId":3,
+	"categoriId":2,
     "subCategoriName": "Electronics",
     "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052255896.png?alt=media&token=1cf67a5c-f01b-4867-9916-1d95b7d7201f"
   
@@ -64,13 +44,13 @@
 	]
   },
 	{
-    "id": 4,
+    "id": 3,
     "categoriName": "Jewellery",
     "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052475141.png?alt=media&token=a03ae477-d38d-4d2f-aded-f9ce0670ff51",
 	"subCategori":[
 		{
     "id": 1,
-	"categoriId":4,
+	"categoriId":3,
     "subCategoriName": "Jewellery",
     "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052475141.png?alt=media&token=a03ae477-d38d-4d2f-aded-f9ce0670ff51"
   
@@ -78,13 +58,13 @@
 	]
   },
 	{
-    "id": 5,
+    "id": 4,
     "categoriName": "Sports",
     "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052390676.png?alt=media&token=5508741c-b7f7-43f3-98f8-a70a3813d68c",
 	"subCategori":[
 		{
     "id": 1,
-	"categoriId":5,
+	"categoriId":4,
     "subCategoriName": "Sports",
     "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052390676.png?alt=media&token=5508741c-b7f7-43f3-98f8-a70a3813d68c"
   
@@ -92,20 +72,20 @@
 	]
   },
 	{
-    "id": 6,
+    "id": 5,
     "categoriName": "Vehicles",
     "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64",
 	"subCategori":[
 	{
     "id": 1,
-	"categoriId":6,
+	"categoriId":5,
     "subCategoriName": "Bike",
     "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64"
   
   },
 	{
     "id": 2,
-	"categoriId":6,
+	"categoriId":5,
     "subCategoriName": "Car",
     "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64"
   
@@ -124,9 +104,9 @@
     "productDetails": "Product Details",
     "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0",
     "isStock": true,
-    "productPictures": [
-     "https://www.google.com",
-     "https://www.google.com"
+    "productPictures": "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0",
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0"
 ]
   },
 	  {
@@ -139,9 +119,8 @@
     "productDetails": "Product Details",
     "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59",
     "isStock": true,
-    "productPictures": [
-     "https://www.google.com",
-     "https://www.google.com"
+     "productPictures": [
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59"
 ]
   },
 	  {
@@ -155,7 +134,7 @@
     "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57",
     "isStock": true,
     "productPictures": [
-     "https://www.google.com"
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57"
 ]
   },
 	  {
@@ -174,7 +153,7 @@
   },
 	    {
     "id": 5,
-	"categoriId": 6,
+	"categoriId": 5,
 	"subCategoriId": 1,
     "productName": "Yamaha MT15",
     "productPrice": "400000",
@@ -188,7 +167,7 @@
   },
 	   {
     "id": 6,
-	"categoriId": 6,
+	"categoriId": 5,
 	"subCategoriId": 1,
     "productName": "KTM 200 Duke",
     "productPrice": "300000",
@@ -202,7 +181,7 @@
   },
 	   {
     "id": 7,
-	"categoriId": 6,
+	"categoriId": 5,
 	"subCategoriId": 2,
     "productName": "Mercedes-Benz car",
     "productPrice": "5000000",
@@ -216,7 +195,7 @@
   },
 	   {
     "id": 8,
-	"categoriId": 6,
+	"categoriId": 5,
 	"subCategoriId": 2,
     "productName": "Tesla car",
     "productPrice": "5000000",
@@ -230,7 +209,7 @@
   },
 	  {
     "id": 9,
-	"categoriId": 3,
+	"categoriId": 2,
 	"subCategoriId": 1,
     "productName": "HITACHI 589LTR. (RS700GPUK2/C2 GBK) NON-FROST SIDE-BY-SIDE INVERTER REFRIGERATOR",
     "productPrice": "55000",
