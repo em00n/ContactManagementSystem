@@ -239,13 +239,7 @@
     "id": 2,
     "categoriId":6,
     "categoriName": "Vehicles"
-  },
-	{
-    "id": 3,
-    "categoriId":3,
-    "categoriName": "Electronics"
   }
- 
 	
   ]
   }
