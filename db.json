@@ -161,8 +161,8 @@
     "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297",
     "isStock": true,
      "productPictures": [
-     "https://www.google.com"
-]
+     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297"
+ ]
   },
 	   {
     "id": 6,
