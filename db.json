@@ -202,7 +202,7 @@
     "productDiscount": "10",
     "productDetails": "Product Details",
     "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0",
-    "isStock": true,
+    "isStock": false,
     "productPictures": [
      "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0"
 ]
