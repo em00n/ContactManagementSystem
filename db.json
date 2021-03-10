@@ -245,10 +245,12 @@
   ]
   }
 ],
-	"login": [
+"login": [
+		{
    "id": 1,
     "email":"admin",
     "password": "admin"
+		}
   ]
   }
 ]
