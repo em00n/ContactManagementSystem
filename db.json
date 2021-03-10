@@ -242,7 +242,10 @@
     "categoriName": "Vehicles"
   }
 	
-  ],"login": [
+  ]
+   }
+  ],
+	"login": [
 	{
     "id": 1,
     "email": "admin",
@@ -250,12 +253,10 @@
   },
 	{
     "id": 2,
-    "email": "admin",
-    "password": "admin"
+    "email": "admin2",
+    "password": "admin2"
   }
 	
-  ]
-   }
   ]
  
 }
