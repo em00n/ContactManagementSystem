@@ -244,6 +244,16 @@
 	
   ]
   }
+],
+	"login": [
+	{
+   
+    "email":"admin",
+    "password": "admin"
+  }
+	
+  ]
+  }
 ]
 }
 
