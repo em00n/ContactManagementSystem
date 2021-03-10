@@ -242,9 +242,20 @@
     "categoriName": "Vehicles"
   }
 	
+  ],"login": [
+	{
+    "id": 1,
+    "email": "admin",
+    "password": "admin"
+  },
+	{
+    "id": 2,
+    "email": "admin",
+    "password": "admin"
+  }
+	
   ]
    }
   ]
  
 }
-
