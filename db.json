@@ -1,262 +1,38 @@
 {
-"categori": [
+"userpost" : [
   {
     "id": 1,
-    "categoriName": "Book",
-    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599",
-  	"subCategori":[
-	{
-    "id": 1,
-	"categoriId":1,
-    "subCategoriName": "Novel",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599"
-  
+    "postId": 1,
+    "userId": 1,
+    "userName": "ABCD",
+    "userImage": "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg",
+    "postDate": "5/6/21",
+    "postTitle": "Share Moment",
+    "postImage": [
+      "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg",
+      "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg"
+    ],
+    "postLikeList": [
+      "1",
+      "5"
+    ]
   },
-   {
+  {
     "id": 2,
-   "categoriId":1,
-    "subCategoriName": "Poem",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599"
-
-  },
-	{
-    "id": 3,
-   "categoriId":1,
-    "subCategoriName": "Story",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052148287.png?alt=media&token=a60b0940-290d-4de3-bc22-37ebecb63599"
-
+    "postId": 3,
+    "userId": 4,
+    "userName": "XYZ",
+    "userImage": "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg",
+    "postDate": "20/6/21",
+    "postTitle": "Moment Share \nApp",
+    "postImage": [
+      "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg",
+      "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg"
+    ],
+    "postLikeList": [
+      "1",
+      "5"
+    ]
   }
-	]
-  },
-   
-   {
-    "id": 2,
-    "categoriName": "Electronics",
-    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052255896.png?alt=media&token=1cf67a5c-f01b-4867-9916-1d95b7d7201f",
-	"subCategori":[
-	{
-    "id": 1,
-	"categoriId":2,
-    "subCategoriName": "Electronics",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052255896.png?alt=media&token=1cf67a5c-f01b-4867-9916-1d95b7d7201f"
-  
-  }
-	]
-  },
-	{
-    "id": 3,
-    "categoriName": "Jewellery",
-    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052475141.png?alt=media&token=a03ae477-d38d-4d2f-aded-f9ce0670ff51",
-	"subCategori":[
-		{
-    "id": 1,
-	"categoriId":3,
-    "subCategoriName": "Jewellery",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052475141.png?alt=media&token=a03ae477-d38d-4d2f-aded-f9ce0670ff51"
-  
-   }
-	]
-  },
-	{
-    "id": 4,
-    "categoriName": "Sports",
-    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052390676.png?alt=media&token=5508741c-b7f7-43f3-98f8-a70a3813d68c",
-	"subCategori":[
-		{
-    "id": 1,
-	"categoriId":4,
-    "subCategoriName": "Sports",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052390676.png?alt=media&token=5508741c-b7f7-43f3-98f8-a70a3813d68c"
-  
-  }
-	]
-  },
-	{
-    "id": 5,
-    "categoriName": "Vehicles",
-    "categoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64",
-	"subCategori":[
-	{
-    "id": 1,
-	"categoriId":5,
-    "subCategoriName": "Bike",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64"
-  
-  },
-	{
-    "id": 2,
-	"categoriId":5,
-    "subCategoriName": "Car",
-    "subCategoriPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611052351420.png?alt=media&token=8116cb5b-32f1-4347-8744-0f46d56f9a64"
-  
-  }
-	]
-  }
-],
-  "itemList": [
-	{
-    "id": 1,
-	"categoriId": 1,
-	"subCategoriId": 2,
-    "productName": "Banalata Sen by Jibanananda Das",
-    "productPrice": "200",
-    "productDiscount": "25",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0",
-    "isStock": true,
-    "productPictures": [
-     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FBanalata-Sen-Book-PDF-By-Jibanananda-Das.jpg?alt=media&token=909fdb5b-276f-4a4f-ae5c-c2bd02e7c2a0"
 ]
-  },
-	  {
-    "id": 2,
-	"categoriId": 1,
-	"subCategoriId": 1,
-    "productName": "Arshinagar by Sadat Hossain",
-    "productPrice": "480",
-    "productDiscount": "30",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59",
-    "isStock": true,
-     "productPictures": [
-     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Farshinogor.jpg?alt=media&token=ec0e6350-c56f-4517-a2e7-d15517c3ff59"
-]
-  },
-	  {
-    "id": 3,
-	"categoriId": 1,
-	"subCategoriId": 2,
-    "productName": "রবীন্দ্রনাথ ঠাকুরের শ্রেষ্ঠ কবিতা",
-    "productPrice": "180",
-    "productDiscount": "20",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57",
-    "isStock": true,
-    "productPictures": [
-     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F30731687._UY265_SS265_.jpg?alt=media&token=9479f48c-704c-4933-977d-d14e8a6d6d57"
-]
-  },
-	  {
-    "id": 4,
-	"categoriId": 1,
-	"subCategoriId": 3,
-    "productName": "Srestha Golpo-Manik Bandopadhyay",
-    "productPrice": "280",
-    "productDiscount": "25",
-    "productDetails":  "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0",
-    "isStock": true,
-    "productPictures": [
-	 "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FSrestha-Golpo-Manik-Bandopadhyay-boighar.in_.jpg?alt=media&token=9ebced23-0e27-451f-89f3-73a678ea0db0"
-
-]
-  },
-	    {
-    "id": 5,
-	"categoriId": 5,
-	"subCategoriId": 1,
-    "productName": "Yamaha MT15",
-    "productPrice": "400000",
-    "productDiscount": "10",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297",
-    "isStock": true,
-     "productPictures": [
-     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Fdd819d0d5f089d79c371799cacc0757b.jpg?alt=media&token=5daefbff-417b-4dd8-8a45-367a4dfac297"
- ]
-  },
-	   {
-    "id": 6,
-	"categoriId": 5,
-	"subCategoriId": 1,
-    "productName": "KTM 200 Duke",
-    "productPrice": "300000",
-    "productDiscount": "10",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Ffe142e201c0fde728a4b9759ab1966a1.jpg?alt=media&token=a6e9ca51-4ec0-4c56-a8a3-cdeadc79b8c1",
-    "isStock": true,
-     "productPictures": [
-     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2Ffe142e201c0fde728a4b9759ab1966a1.jpg?alt=media&token=a6e9ca51-4ec0-4c56-a8a3-cdeadc79b8c1"
-]
-  },
-	   {
-    "id": 7,
-	"categoriId": 5,
-	"subCategoriId": 2,
-    "productName": "Mercedes-Benz car",
-    "productPrice": "5000000",
-    "productDiscount": "10",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F2020-Mercedes-Benz-C-Class-Sedan-Grey-1001x565.jpg?alt=media&token=e4d88b9c-1716-4bad-b194-8a7f87ac0ae8",
-    "isStock": true,
-    "productPictures": [
-     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2F2020-Mercedes-Benz-C-Class-Sedan-Grey-1001x565.jpg?alt=media&token=e4d88b9c-1716-4bad-b194-8a7f87ac0ae8"
-]
-  },
-	   {
-    "id": 8,
-	"categoriId": 5,
-	"subCategoriId": 2,
-    "productName": "Tesla car",
-    "productPrice": "5000000",
-    "productDiscount": "10",
-    "productDetails": "Product Details",
-    "productPicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0",
-    "isStock": false,
-    "productPictures": [
-     "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2Fproduct%2FTeslaModelS-630933336.jpg?alt=media&token=ada7add2-ad95-4039-bf21-a86dd4e251b0"
-]
-  }
-	 
-],
-  "homepageItem": [
-	{
-    "homepageSlideList": [
-     {
-    "id": 1,
-    "categoriId":"3",
-    "subCategoriId": "0",
-    "slidePicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611063299862.png?alt=media&token=540b6f1d-1304-4d29-8efb-1c5f74670882",
-    "discount":"0"
-	     
-  },
-	    {
-    "id": 2,
-    "categoriId":"4",
-    "subCategoriId": "0",
-    "slidePicture": "https://firebasestorage.googleapis.com/v0/b/fir-imageuploaddemo-1a0c1.appspot.com/o/ecommarce%2F1611063542769.png?alt=media&token=137b8649-c8dc-4555-a4b2-d0919bcb238f",
-    "discount":"0"
-	     
-  }
-	
-],
-"homepageCategoriList": [
-	{
-    "id": 1,
-    "categoriId":1,
-    "categoriName": "Book"
-  },
-	{
-    "id": 2,
-    "categoriId":5,
-    "categoriName": "Vehicles"
-  }
-	
-  ]
-   }
-  ],
-	"login": [
-	{
-    "id": 1,
-    "email": "admin",
-    "password": "admin"
-  },
-	{
-    "id": 2,
-    "email": "admin2",
-    "password": "admin2"
-  }
-	
-  ]
- 
 }
